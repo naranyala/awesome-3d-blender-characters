@@ -79,6 +79,7 @@ Start with a stylized character rather than a highly detailed realistic human. F
 ### Reference and Design
 
 - [PureRef](https://www.pureref.com/) - Lightweight reference-board application for concept art and turnaround sheets.
+- [Linger](https://withlinger.com/) - Apple Silicon Mac app for organizing character references with source links and notes, then arranging selected images on a project canvas. Paid, with a free trial.
 - [Line of Action](https://line-of-action.com/) - Timed drawing and pose reference for gesture and anatomy practice.
 - [Sketchfab](https://sketchfab.com/) - Inspectable 3D references for anatomy, clothing, props, and historical design.
 - [ArtStation](https://www.artstation.com/) - Character art, concept design, and professional portfolio reference.
